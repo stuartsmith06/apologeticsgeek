@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Welcome! My name is Stuart. I’m an information security professional, a computer geek, U.S. Army Veteran, and most importantly a Christian “case maker.”  I’m married to my beautiful wife, Joyce.  We're also blessed to be grandparents!
+Hello! My name is Stuart. I’m an information security professional, a computer geek, U.S. Army Veteran, and most importantly a Christian “case maker.”  I’m married to my beautiful wife, Joyce.  We're also blessed to be grandparents!
 
 When I was 17, I became a follower of Jesus of Nazareth. I was a nominal Christian at best, and in my late 20’s was challenged (by an atheist) about my beliefs. I discovered I really had no reasons to defend what I believed or why I believed it. This led me to the world of Christian apologetics.
 
