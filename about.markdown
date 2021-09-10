@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello! My name is Stuart. I’m an information security professional, a computer geek, U.S. Army Veteran, and most importantly a Christian “case maker.”  I’m married to my beautiful wife, Joyce.  We're also blessed to be grandparents!
 
-When I was 17, I became a follower of Jesus of Nazareth. I was a nominal Christian at best, and in my late 20’s was challenged (by an atheist) about my beliefs. I discovered I really had no reasons to defend what I believed or why I believed it. This led me to the world of Christian apologetics. <img src="/assets/img/stuart_smith.jpg">
+When I was 17, I became a follower of Jesus of Nazareth. I was a nominal Christian at best, and in my late 20’s was challenged (by an atheist) about my beliefs. I discovered I really had no reasons to defend what I believed or why I believed it. This led me to the world of Christian apologetics. <img src="/images/stuart_smith.jpg" align="right">
 
 Some may have never heard the word apologetics.  This doesn't mean we're "apologizing" for anything, but rather the word means to offer a defense or give an answer.  It comes from the Greek word <a href="https://biblehub.com/greek/627.htm" target=_blank><i>ἀπολογία</i></a> (apologia), which is most often cited in 1 Peter 3:15, "But in your hearts revere Christ as Lord. Always be prepared to give an answer [or defense, <i>ἀπολογία</i>] to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect" (ESV).
 
