@@ -1,5 +1,5 @@
 ---
-title: On Time and Eternity: Going to Grandma’s House
+title: On Time and Eternity (Going to Grandma's House)
 layout: post
 ---
 I remember when I was a kid going to visit my grandparents in Carthage, Tennessee. My parents would load us up into the ’75 Pontiac and make the 55-mile drive to my grandparents’ house.  This was before the days of cellphones, tablets, and in-car entertainment systems.  I was usually left my own devices. Staring out the window at the passing cows and the rolling hills of middle Tennessee was abject torture for a 10-year-old. I was sooooo bored, and the drive seemed to take forever! In reality, even at the unbelievably slow, gas saving, 55 m.p.h. interstate speed, the drive only took about an hour.  I’m pretty sure that every kid had this perspective growing up. Math class, waiting in line at the grocery store, the drive to grandma’s house, and pretty much any other unpleasant event seemed to drag on for an eternity.
@@ -15,4 +15,3 @@ If the Christian world-view is true, then this life we are currently living isn�
 In his second letter to the church in Corinth, Paul writes, “For this light and momentary affliction is preparing us for an eternal weight of glory beyond all comparison” (2 Cor 4:17, ESV). James, the brother of Jesus, writes, “Yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes” (James 4:14, ESV).
 
 I’m not necessarily making an argument for the Christian world-view; but what I am saying is on the Christian world-view, the pain and suffering of this life will seem trivial compared to our experience of time in the afterlife. And while we cannot fully comprehend that now, we can see a glimpse of what that will be like as we grow older in this life. This is at least something to think about when one complains about God “allowing” pain and suffering in this world.
- 
