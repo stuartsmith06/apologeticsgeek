@@ -28,9 +28,12 @@ twitter_username: stuartsmith06
 github_username:  stuartsmith06
 
 # Build settings
+# add this back if remote theme doesn't work
 theme: minima
+# theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme # added 9/11/21 for remote theme support
 
 # Exclude from processing.
 # The following items will not be processed, by default.
