@@ -33,4 +33,4 @@ This is the real message of Easter!
 <hr>
 
 
-<h6>* Some may ask, “What about the empty tomb”? This historic fact is agreed upon only by about 75 to 80 percent of scholars according to Dr. Gary Habermas.  Suffice to say, if the tomb wasn’t empty, all the Jewish or Roman authorities would have to do is produce the body of Jesus and the fledgling Christian movement would be over. But no body was ever produced because the tomb actually was empty!</h>
+<h6>* Some may ask, “What about the empty tomb”? This historic fact is agreed upon only by about 75 to 80 percent of scholars according to Dr. Gary Habermas.  Suffice to say, if the tomb wasn’t empty, all the Jewish or Roman authorities would have to do is produce the body of Jesus and the fledgling Christian movement would be over. But no body was ever produced because the tomb actually was empty!
