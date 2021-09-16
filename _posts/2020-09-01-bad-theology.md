@@ -6,7 +6,7 @@ layout: post
 > Bad theology will eventually hurt people and dishonor God in proportion to its badness.
 - John Piper
 
-Once, I was browsing the greeting card section of a local retailer.  My wife was shopping for some *Thank You* cards, and I was doing what any good husband does—hanging around trying not to look bored.  I noticed a card with a little cross on the placard behind the stack that had a cross on it.  You know the kind.  Those little indicators that tell shoppers, "This is a Christian card.”  Clearly, this is an attempt to assure the Christian shopper the card is biblically-approved for purchase.  Now this particular chain of stores isn’t known for its Christian values, so naturally I was curious what this card said.  I pulled it from the rack, and in a fancy script font, with a friendly background of a sliced orange, the card assured me, “God loves you and wants you to be happy.”
+Once, I was browsing the greeting card section of a local retailer.  My wife was shopping for some *Thank You* cards, and I was doing what any good husband does—hanging around trying not to look bored.  I noticed a card with a little cross on the placard behind the stack.  You know the kind.  Those little indicators that tell shoppers, "This is a Christian card.”  Clearly, this is an attempt to assure the Christian shopper the card is biblically-approved for purchase.  Now this particular chain of stores isn’t known for its Christian values, so naturally I was curious what this card said.  I pulled it from the rack, and in a fancy script font, with a friendly background of a sliced orange, the card assured me, “God loves you and wants you to be happy.”
 
 I got to thinking, is this an example of bad theology?
 
