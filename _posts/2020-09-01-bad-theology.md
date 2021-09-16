@@ -20,26 +20,18 @@ Contrast this with my Logos Dictionary of Bible Themes (Manser), which says:
 
 What is interesting is the Bible has very little to say about happiness per se.  In fact, the word “happiness” doesn’t even appear in the New Testament in the English Standard Version (ESV) translation; and “happy” or “happiness” only appears in about 10 verses in the Old Testament.  The New International Version (NIV) and New English Translation (NET) do use the word “happy” or “happiness” in a couple of dozen places, where the ESV typically uses the word “glad”, “joyful”, or "cheerful."  For example, Proverbs 15:13:
 
-A happy heart makes the face cheerful, but heartache crushes the spirit.  (NIV)
-A joyful heart makes the face cheerful, but by a painful heart the spirit is broken.  (NET)
-A glad heart makes a cheerful face, but by sorrow of heart the spirit is crushed. (ESV)
+<br>A happy heart makes the face cheerful, but heartache crushes the spirit.  (NIV)</br>
+<br>A joyful heart makes the face cheerful, but by a painful heart the spirit is broken.  (NET)</br>
+<br>A glad heart makes a cheerful face, but by sorrow of heart the spirit is crushed. (ESV)</br>
 
 Or James 5:13:
 
-Is anyone among you in trouble? Let them pray. Is anyone happy? Let them sing songs of praise. (NIV)
-Is anyone among you suffering? He should pray. Is anyone in good spirits? He should sing praises. (NET)
-Is anyone among you suffering? Let him pray. Is anyone cheerful? Let him sing praise. (ESV)
+<br>Is anyone among you in trouble? Let them pray. Is anyone happy? Let them sing songs of praise. (NIV)</br>
+<br>Is anyone among you suffering? He should pray. Is anyone in good spirits? He should sing praises. (NET)</br>
+<br>Is anyone among you suffering? Let him pray. Is anyone cheerful? Let him sing praise. (ESV)</br>
 
 What was interesting to me as I did a word study on “happy” and “happiness” is I could find no Biblical references at all that indicated that it is one of God's chief desires that his people are happy.  I think this is because God is more interested in our *holiness* rather than our happiness.
 
 The culture (along with our sinful nature) approaches happiness from the “if it feels good, do it” attitude.  Happiness is seen as doing whatever you want, as long as it doesn’t hurt anyone else.  This is not a Biblical understanding of happiness.  From a Christian perspective, God (who is the creator of life) knows those actions and activities that will truly make humans happy. First among these is a relationship with him. In Paul’s letter to the church in Ephesus, he writes, “For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them” (Eph 2:10).  Our happiness should be directly related to the nature of our relationship with God, and not with temporal, material things, feelings, or activities.  As Manser says, our happiness “derives from a secure and settled knowledge of God.”  We should rejoice (i.e.: find happiness) in his works in our lives and our faithfulness to his word.
 
 Does God love us?  Clearly.  Does God want us to be happy?  Yes.  But not in the way that the world typically thinks.  True happiness is not found in doing what we want, but is instead found doing what God wants.  Which goes to show, greeting cards probably aren’t the best source of information on accurate Christian theology.
-
-
-
-
-
-Reference:
-
-Manser, M. H. (2009). Dictionary of Bible Themes: The Accessible and Comprehensive Tool for Topical Studies. London: Martin Manser.
